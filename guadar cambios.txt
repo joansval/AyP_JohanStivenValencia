@@ -1,3 +1,5 @@
+Nota personal .txt para gardar directamente desde la terminal 
+
 git add desde ejecuar en la termial
 git commit -m "NOMBRE" #registra el cambio
 git push #envia definitivamente el codigo
